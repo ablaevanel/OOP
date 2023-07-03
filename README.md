@@ -1,2 +1,2 @@
 # OOP
-Object-oriented programming using C++ as an example
+Object-Oriented Programming exercises using C++
