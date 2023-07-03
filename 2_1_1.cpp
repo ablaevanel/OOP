@@ -23,6 +23,7 @@ class cl1 {
       cout << "Destructor";
     }
 };
+
 int main(){
   cl1 a;
   return(0);
